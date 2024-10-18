@@ -13,7 +13,7 @@ Byte5: Tο αρχείο δεν γίνεται compile οπότε έφτιαξα 
 
 Byte6: To σκέτο unzip δεν δούλευε, αλλά δούλεψε το unzip -p.
 
-Byte7: Με δοκιμές...  tar -p -x -f byte7.tar.gz -O
+Byte7: Με δοκιμές...  tar -p -x -f byte7.tar.gz -O με τη βοήθεια του tar --help
 
 Byte8: nano carriage_return.txt
 
